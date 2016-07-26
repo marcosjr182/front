@@ -1,0 +1,28 @@
+body {
+	padding: 1em 5em 1em 5em;
+	background: #c3c3c3;
+}
+header{
+	text-align:center;
+}
+.notification {
+	width:100%;
+	color:#fff;
+	
+}
+.notification > .icon {
+	font-size:8em;
+	margin: auto;
+}
+
+.granted {
+	background: green;
+
+}
+.denied {
+	background: red;
+}
+.waiting{
+	font-size:2em;
+	background:#cccccc;
+}
